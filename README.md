@@ -26,7 +26,7 @@ A simple interpreter built using TypeScript, designed to help understand the bas
 
 2. Navigate to the project directory:
 
-    cd ts-interpreter
+   cd ts-interpreter
 
 3. Install the necessary dependencies:
 
@@ -65,5 +65,5 @@ A simple interpreter built using TypeScript, designed to help understand the bas
 
 7. Liscense
 
-    This project is under MIT liscense
+    This project is under MIT liscense.
      
