@@ -65,5 +65,5 @@ A simple interpreter built using TypeScript, designed to help understand the bas
 
 7. Liscense
 
-    This project is under MIT liscense.
+    This project is under MIT liscense. Please go through it.
      
