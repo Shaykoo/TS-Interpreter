@@ -68,4 +68,3 @@ export enum TokenType {
       return { type: TokenType.EOF };
     }
   }
-  
